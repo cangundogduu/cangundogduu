@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm @cangundogduu<br><br>- 🔭 I’m working as developer<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm @cangundogduu<br><br>- 🔭 I’m working as developer </p>
 
 ###
 
